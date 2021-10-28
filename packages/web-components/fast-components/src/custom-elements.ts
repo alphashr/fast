@@ -19,6 +19,7 @@ import { fastDesignSystemProvider } from "./design-system-provider/index";
 import { fastDialog } from "./dialog/index";
 import { fastDisclosure } from "./disclosure/index";
 import { fastDivider } from "./divider/index";
+import { fastFile } from "./file/index";
 import { fastFlipper } from "./flipper/index";
 import { fastHorizontalScroll } from "./horizontal-scroll/index";
 import { fastOption } from "./listbox-option/index";
@@ -91,6 +92,7 @@ export {
     fastDialog,
     fastDisclosure,
     fastDivider,
+    fastFile,
     fastFlipper,
     fastHorizontalScroll,
     fastListbox,
@@ -151,6 +153,7 @@ export const allComponents = {
     fastDialog,
     fastDisclosure,
     fastDivider,
+    fastFile,
     fastFlipper,
     fastHorizontalScroll,
     fastListbox,
